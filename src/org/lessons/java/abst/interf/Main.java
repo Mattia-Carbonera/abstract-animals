@@ -2,6 +2,7 @@ package org.lessons.java.abst.interf;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("---------------------------");
         Cane fufi = new Cane();
         fufi.dormi();
         fufi.verso();
